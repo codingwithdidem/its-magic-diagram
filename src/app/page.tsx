@@ -144,7 +144,7 @@ export default function Home() {
             }}
             className="absolute top-[161px] right-[-117px] w-[684px] max-w-none text-[#272729] bg-[#323238] text-[102px] bg-clip-text font-bold [-webkit-text-fill-color:transparent] tracking-[-3px]"
           >
-            Frontend devs ♥
+            Love is ♥
           </motion.div>
           {/* Particles blur */}
           <motion.div
